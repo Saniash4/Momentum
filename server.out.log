@@ -1,0 +1,84 @@
+INFO:     127.0.0.1:55685 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55686 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60610 - "POST /api/tasks HTTP/1.1" 201 Created
+INFO:     127.0.0.1:60610 - "DELETE /api/tasks/9e50dadf-00f3-414e-b002-0f80a1ca419a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60610 - "POST /api/tasks/9e50dadf-00f3-414e-b002-0f80a1ca419a/restore HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60612 - "DELETE /api/tasks/9e50dadf-00f3-414e-b002-0f80a1ca419a/forever HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:60614 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59759 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59759 - "GET /style.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59759 - "GET /script.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59759 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56281 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56283 - "GET /style.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56283 - "GET /tasks HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54541 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54541 - "GET /style.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53461 - "GET /script.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53461 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53461 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52885 - "POST /api/tasks HTTP/1.1" 201 Created
+INFO:     127.0.0.1:52885 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52885 - "DELETE /api/tasks/275ca7b5-54a7-4dfa-941d-7c63e0fd3355 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52885 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52885 - "POST /api/tasks/275ca7b5-54a7-4dfa-941d-7c63e0fd3355/restore HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52885 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59914 - "PATCH /api/tasks/275ca7b5-54a7-4dfa-941d-7c63e0fd3355 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59914 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59914 - "PATCH /api/tasks/275ca7b5-54a7-4dfa-941d-7c63e0fd3355/move HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59914 - "PATCH /api/tasks/275ca7b5-54a7-4dfa-941d-7c63e0fd3355/move HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59914 - "PATCH /api/tasks/275ca7b5-54a7-4dfa-941d-7c63e0fd3355/move HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59914 - "PATCH /api/tasks/275ca7b5-54a7-4dfa-941d-7c63e0fd3355/move HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59914 - "PATCH /api/tasks/275ca7b5-54a7-4dfa-941d-7c63e0fd3355/move HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62551 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62550 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57427 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57427 - "GET /style.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57427 - "GET /script.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57427 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52218 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52221 - "GET /style.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52221 - "GET /tasks HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:64452 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64452 - "GET /style.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63051 - "GET /script.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63051 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63710 - "GET / HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:63710 - "GET /style.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:59872 - "GET /script.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:59872 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62832 - "GET / HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:62832 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "POST /api/tasks HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63842 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "PATCH /api/tasks/0d75c121-7c8a-4926-a7dc-32f69fa66e91/move HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "PATCH /api/tasks/0d75c121-7c8a-4926-a7dc-32f69fa66e91/move HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "PATCH /api/tasks/0d75c121-7c8a-4926-a7dc-32f69fa66e91/move HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "DELETE /api/tasks/0d75c121-7c8a-4926-a7dc-32f69fa66e91 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "POST /api/tasks/0d75c121-7c8a-4926-a7dc-32f69fa66e91/restore HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "DELETE /api/tasks/0d75c121-7c8a-4926-a7dc-32f69fa66e91 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "POST /api/tasks/0d75c121-7c8a-4926-a7dc-32f69fa66e91/restore HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "DELETE /api/tasks/0d75c121-7c8a-4926-a7dc-32f69fa66e91 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63842 - "DELETE /api/tasks/0d75c121-7c8a-4926-a7dc-32f69fa66e91/forever HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:63842 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64609 - "PATCH /api/tasks/275ca7b5-54a7-4dfa-941d-7c63e0fd3355 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64609 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50627 - "POST /api/tasks HTTP/1.1" 201 Created
+INFO:     127.0.0.1:50627 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50627 - "PATCH /api/tasks/84f91a4a-5cd6-4e79-b73e-9585296a5d1e/move HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50627 - "PATCH /api/tasks/275ca7b5-54a7-4dfa-941d-7c63e0fd3355/move HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62818 - "POST /api/tasks HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62818 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55106 - "POST /api/tasks HTTP/1.1" 201 Created
+INFO:     127.0.0.1:55106 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55106 - "PATCH /api/tasks/84f91a4a-5cd6-4e79-b73e-9585296a5d1e/move HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55106 - "PATCH /api/tasks/275ca7b5-54a7-4dfa-941d-7c63e0fd3355/move HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64749 - "POST /api/tasks HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64749 - "GET /api/tasks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65283 - "POST /api/tasks HTTP/1.1" 201 Created
+INFO:     127.0.0.1:65283 - "GET /api/tasks HTTP/1.1" 200 OK
